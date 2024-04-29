@@ -7,7 +7,7 @@ This repository contains the Python notebook for home credit default risk analys
 - - [Project Objective](#objective)
 - [Contribution](#contribution)
 - [Solution](#solution)
-- [Business Value of the Solution](#businessValue)
+- [Business Value of the Solution](#businessvalue)
 - [Difficulties Encountered](#difficulties)
 - [Learning Received](#learning)
 
@@ -28,7 +28,7 @@ My contributions to the project: I carried out feature engineering and was taske
 ## Solution <a id = "solution"></a>
 XGBoost's remarkable performance is crucial to our predictive modeling approach. It is perfect for estimating loan payback probability because of its capacity to handle significant, high-dimensional information and capture nonlinear interactions. In addition, XGBoost's ability to produce interpretable results and resistance to overfitting were essential considerations in our choice. Thus, XGBoost was the best option for improving Home Credit's capacity to evaluate creditworthiness.
 
-## Business Value of the Solution <a id = "businessValue"></a>
+## Business Value of the Solution <a id = "businessvalue"></a>
 The XGBoost model's accurate creditworthiness assessment provides Home Credit with several benefits. Loan evaluations built by conducting thorough data analysis increase client **loyalty**. It also contributes to Home Credit's reputation by highlighting its **ethical lending practices**. <br>To get the most out of the XGBoost model, Home Credit should incorporate it into its framework for evaluating credit and make significant investments in reliable data infrastructure. Crucial actions like imputation methods for missing values, hyperparameter adjustment, and outlier management should be undertaken by Home Credit to maximize the model's stability. Its effectiveness can be further increased by looking at areas for improvement and adapting to the changing market conditions; this will help promote **long-term growth and customer happiness**.
 
 ## Difficulties Encountered <a id = "difficulties"></a>
