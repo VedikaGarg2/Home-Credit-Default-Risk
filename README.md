@@ -1,2 +1,4 @@
-# Vedika_Capstone
-This repository is created for Career Capstone Assignment 
+# Home-Credit-Default-Risk Analysis
+This repository contains the Python notebook for home credit default risk analysis.
+
+# Overview
