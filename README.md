@@ -20,12 +20,12 @@ One of the challenges faced by Home Credit, a worldwide financial company commit
 ### Project Objective <a id = "objective"></a>
 The project aims to increase Home Credit's ability to evaluate credit using machine learning and statistical models. We must build a prediction model that identifies potential borrowers who can repay to reduce default risks and maximize acceptance rates. This initiative will ensure that loans are only given to qualified unbanked applicants to advance Home Credit's financial inclusion.
 
-## Contribution <a id = "contribution"></a>
+## Contribution to the project <a id = "contribution"></a>
 Before EDA, we performed feature engineering by combining historical and current application data to enrich the dataset. This involved integrating variables like the count of previous applications and past credits into the training and testing datasets to enhance the model's predictive accuracy for loan repayment probabilities. Post feature engineering, we transitioned to EDA to extract insights from the data. Following this, we cleaned the data to address missing values and encoded categorical variables.<br>
-After data preprocessing, we built models to determine the most effective predictive approach. We developed logistic regression, random forest, and XGBoost models, with the latter demonstrating superior performance, particularly when downsampling was applied.<br>
-My contributions to the project: I carried out feature engineering and was tasked with building the XGBoost model. I tested strategies like downsampling and upsampling to maximize performance. In addition, I also performed cross-validation and did feature importance analysis to identify the primary factors influencing the outcome.
+After data preprocessing, we built models to determine the most effective predictive approach. We developed logistic regression, random forest, and XGBoost models, with the latter demonstrating superior performance, particularly when downsampling was applied.<br><br>
+**My contributions to the project**: I carried out feature engineering and was tasked with building the XGBoost model. I tested strategies like downsampling and upsampling to maximize performance. In addition, I also performed cross-validation and did feature importance analysis to identify the primary factors influencing the outcome.
 
-## Solution <a id = "solution"></a>
+## Group's Solution <a id = "solution"></a>
 XGBoost's remarkable performance is crucial to our predictive modeling approach. It is perfect for estimating loan payback probability because of its capacity to handle significant, high-dimensional information and capture nonlinear interactions. In addition, XGBoost's ability to produce interpretable results and resistance to overfitting were essential considerations in our choice. Thus, XGBoost was the best option for improving Home Credit's capacity to evaluate creditworthiness.
 
 ## Business Value of the Solution <a id = "businessvalue"></a>
